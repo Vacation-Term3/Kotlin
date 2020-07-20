@@ -1,0 +1,4 @@
+btnShowToast.setOnClickListener{
+//Code
+	Log.i("MainActivity", "Button was clicked")  //i stand for information
+	Toast.makeText(this, "Button was clicked", Toast.LENGTH_SHORT).show()
