@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmartHerd</string>
+    <string name="btn_show_toast">Show Toast</string>
+    <string name="btn_move_to_next_activities">Move to next activities</string>
+    <string name="btn_share_to_apps">Share to Other Apps</string>
+    <string name="recycler_view_demo">Recycler View Demo</string>
+    <string name="et_enter_msg">Enter a Message</string>
+    <string name="btn_was_click">Button was clicked</string>
+    <string name="share_to">Share to : </string>
+    <string name="clicked">Clicked !</string>
+    <string name="my_hobbies_is">My hobby is: </string>
+
+</resources>

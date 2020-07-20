@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartHerd</string>
+    <string name="btn_show_toast">បង្ហាញ</string>
+    <string name="btn_move_to_next_activities">ប្តូរទៅសកម្មភាពមួយទៀត</string>
+    <string name="btn_share_to_apps">ចែករំលែកទៅកម្មវិធីផ្សេង</string>
+    <string name="recycler_view_demo">មើលការបង្ហាញ​ Recycler</string>
+    <string name="et_enter_msg">បញ្ចូលសារមួយ</string>
+    <string name="btn_was_click">បូតុងបានចុច</string>
+    <string name="share_to">ចែករំលែកទៅ : </string>
+    <string name="clicked">បានចុច!​</string>
+    <string name="my_hobbies_is">ទម្លាប់របស់ខ្ញុំគឺ: </string>
+
+
+
+</resources>
