@@ -1,0 +1,10 @@
+        btnSendMessageToNextActivity.setOnClickListener{
+            var message: String = etUserMessage.text.toString()  // == getText in java
+            Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
+
+            val intent = Intent(this, SecondActivity::class.java)
+            startActivity(intent)
+
+        }
+        
+        //We have two screen there

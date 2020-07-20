@@ -1,0 +1,20 @@
+//in Main 
+
+        btnSendMessageToNextActivity.setOnClickListener{
+            var message: String = etUserMessage.text.toString()  // == getText in java
+            //Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
+
+            //we use explicit intent
+            val intent = Intent(this, SecondActivity::class.java)
+            intent.putExtra("user_message", message)
+
+            startActivity(intent)
+
+//in Second activities
+
+        val bundle: Bundle? = intent.extras // == getIntent & getExtras in java
+        val msg = bundle!!.getString("user_message")
+
+        Toast.makeText(this, msg, Toast.LENGTH_SHORT).show()
+
+        txvUserMessage.text = msg

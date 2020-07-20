@@ -1,0 +1,15 @@
+        BtnShareToOtherApp.setOnClickListener{
+
+            var message: String = etUserMessage.text.toString()  // == getText in java
+
+            val intent = Intent()
+            intent.action = Intent.ACTION_SEND
+            intent.putExtra(Intent.EXTRA_TEXT, message)
+
+            intent.type = "text/plain"
+
+            startActivity(Intent.createChooser(intent, "Share to : "))
+        }
+        
+        
+        
