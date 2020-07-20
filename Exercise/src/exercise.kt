@@ -28,8 +28,9 @@ fun main(args: Array<String>){
     //exercise14() //Convert Milliseconds to Minutes and Seconds
     //exercise15() //Add Two Dates
     //exercise16() //Get Current Working Directory
-    exercise17() //Convert Byte Array to Hexadecimal
+    //exercise17() //Convert Byte Array to Hexadecimal
 }
+
 fun exercise17(){
     //Convert Byte Array to Hex value
     val byte = byteArrayOf(16,12,3,14)
@@ -53,7 +54,6 @@ fun exercise17(){
     val s = bytesToHex(byte)
     println("")
     println(s)
-
 }
 fun exercise16(){
     //Get current working directory
