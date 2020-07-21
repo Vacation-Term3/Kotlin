@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253160008227",
+    "firebase_url": "https://get-and-set-data-of-empl-1f676.firebaseio.com",
+    "project_id": "get-and-set-data-of-empl-1f676",
+    "storage_bucket": "get-and-set-data-of-empl-1f676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253160008227:android:a483f0242f2c2466099f96",
+        "android_client_info": {
+          "package_name": "com.erobot.getsetdatafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253160008227-6fl8bidadl6sjs9f9ucvja04nn15u8hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVrEUwZrmed-9u9vFDMwXAifKB28r7fFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253160008227-6fl8bidadl6sjs9f9ucvja04nn15u8hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

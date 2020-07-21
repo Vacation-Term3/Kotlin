@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961201263908",
+    "firebase_url": "https://image-upload-to-firebase-fc7e9.firebaseio.com",
+    "project_id": "image-upload-to-firebase-fc7e9",
+    "storage_bucket": "image-upload-to-firebase-fc7e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961201263908:android:08ad1a90386ca3aebbcfb1",
+        "android_client_info": {
+          "package_name": "com.erobot.chooseimageuploadtofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961201263908-trbrkk1r9qkn1f2hrl4evd1s3u43mh56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF1zv_cyzyaU89PdQ6FeSMaUArgZiiC_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961201263908-trbrkk1r9qkn1f2hrl4evd1s3u43mh56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

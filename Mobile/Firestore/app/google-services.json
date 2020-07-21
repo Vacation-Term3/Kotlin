@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "739983689126",
+    "firebase_url": "https://firestore-2b5bf.firebaseio.com",
+    "project_id": "firestore-2b5bf",
+    "storage_bucket": "firestore-2b5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739983689126:android:af060519b0e1e340883b67",
+        "android_client_info": {
+          "package_name": "com.erobot.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739983689126-smekgrot2pnjb6inddjq9c7ebbfa3sm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsamS0IUepWntXgo_Dtg6wgH7ZvUoHoP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739983689126-smekgrot2pnjb6inddjq9c7ebbfa3sm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
